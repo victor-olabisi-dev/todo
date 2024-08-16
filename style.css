@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.one{
+    background:rgb(4, 4, 143);
+    height: 100vh;
+}
+
+
+button {
+    cursor: pointer;
+    
+  
+}
+
+.error {
+    display: none;
+}
+
+.kk{
+  
+    height: 50vh;
+    overflow-y: auto;
+    border-radius: 05px;
+}
+.firstDiv{
+    background-color:#ddd;
+}
+
